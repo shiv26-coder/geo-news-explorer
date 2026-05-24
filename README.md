@@ -28,3 +28,11 @@ pip install -r requirements.txt
 Run:
 
 python main.py
+
+## Project Output
+
+### Interactive News Map
+![News Map](Screenshot%202026-05-24%20145459.png)
+
+### Sentiment Analysis Graph
+![Graph](Screenshot%202026-05-24%20145505.png)
