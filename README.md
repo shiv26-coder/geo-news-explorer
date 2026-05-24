@@ -36,3 +36,9 @@ python main.py
 
 ### Sentiment Analysis Graph
 ![Graph](Screenshot%202026-05-24%20145505.png)
+
+## Author
+Shivansh Misra
+
+## Project Report
+The detailed project report is available in `report.pdf`.
